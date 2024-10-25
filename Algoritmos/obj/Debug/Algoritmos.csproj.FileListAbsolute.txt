@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form1.resources
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+C:\Users\Dell\Documents\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
